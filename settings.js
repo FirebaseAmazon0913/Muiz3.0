@@ -15,14 +15,14 @@ global.autoswview = true
 global.public = true
 global.autoreact = false
 global.antidelete = false
-global.autotyping = false
+global.autotyping = true
 global.autoBio = true
 global.antiSpam = true
 global.sign = "☃️❄️"
 // ☞ ➻ ➽ ☛ 〆 
-global.bank = "Opay"
-global.bankname = "BLUE"
-global.accnumber = "7041039367"
+global.bank = "Moniepoint"
+global.bankname = "Muiz"
+global.accnumber = "5798997263"
 global.language = "en"
 global.sessionName = "session"
 global.pairingCode = true 
@@ -46,7 +46,7 @@ global.fotoRandom = [
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbBBpaPJdt2V0Hab-7vJjlwr2NInRZ0hb6nA&usqp=CAU",
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_KpekxrXL95vx4t9Ur6n4NRxxcrLAZWE-mA&usqp=CAU"]
 global.baileysMd = true
-global.multi = false
+global.multi = true
 global.prefa = "!"
 global.Console = false
 global.autorespon = false
